@@ -1,0 +1,1 @@
+web: gunicorn web_django_tiara.wsgi --log-file -
