@@ -1,1 +1,1 @@
-web: gunicorn tutorial-0-tiara.wsgi --log-file -
+web: gunicorn tutorial0.wsgi --log-file -
